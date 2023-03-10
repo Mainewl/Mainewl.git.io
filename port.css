@@ -177,7 +177,7 @@ h2 span{
 
 .loading{
     position: absolute;
-    animation: fade 7.3s  0s forwards;
+    animation: fade 7.0s  0s forwards;
 }
 
 .bodyShadowelement{
